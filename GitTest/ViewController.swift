@@ -21,11 +21,14 @@ class ViewController: UIViewController {
     }
     
     func changesMaded() {
-        var change1:String = "Done first change"
         
         var change2:String = "Done Second change"
         
         var newBranch1:String = "This is the third change"
+    }
+    
+    func addedBranch2() {
+        
     }
 
 

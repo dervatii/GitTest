@@ -1,5 +1,5 @@
 //
-//  Branch1.swift
+//  Branch2.swift
 //  GitTest
 //
 //  Created by Diego Valderrama on 5/5/16.
@@ -8,9 +8,6 @@
 
 import Foundation
 
-//This is the first branch
-
-struct tmp {
+struct Branch2 {
     
-    var branch1:Int
 }

@@ -11,4 +11,6 @@ import Foundation
 class Change2 {
     
     var addedOnChange2:String = ""
+    
+    var addedBranch2:String = ""
 }
