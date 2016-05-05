@@ -19,6 +19,10 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+    func changesMaded() {
+        var change1:String = "Done first change"
+    }
 
 
 }
