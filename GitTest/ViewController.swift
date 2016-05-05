@@ -22,6 +22,8 @@ class ViewController: UIViewController {
     
     func changesMaded() {
         var change1:String = "Done first change"
+        
+        var change2:String = "Done Second change"
     }
 
 
